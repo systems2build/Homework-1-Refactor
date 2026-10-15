@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-labelledby="title">
+<title id="title">Search Visibility</title>
+<rect width="360" height="240" rx="22" fill="#EAF5FA"/>
+<rect x="36" y="34" width="280" height="169" rx="16" fill="#fff" stroke="#B6D4E3" stroke-width="4"/>
+<rect x="36" y="34" width="280" height="34" rx="16" fill="#155B7D"/>
+<path d="M36 56h280" stroke="#155B7D" stroke-width="22"/>
+<circle cx="59" cy="52" r="5" fill="#B5E9E1"/><circle cx="78" cy="52" r="5" fill="#B5E9E1"/>
+<rect x="64" y="90" width="145" height="12" rx="6" fill="#C9E1EB"/>
+<rect x="64" y="115" width="105" height="10" rx="5" fill="#DCECF2"/>
+<rect x="64" y="139" width="125" height="10" rx="5" fill="#DCECF2"/>
+<rect x="64" y="163" width="85" height="10" rx="5" fill="#DCECF2"/>
+<circle cx="249" cy="133" r="34" fill="#E6F7F2" stroke="#007B9B" stroke-width="10"/>
+<path d="m274 157 31 31" stroke="#007B9B" stroke-width="12" stroke-linecap="round"/>
+</svg>

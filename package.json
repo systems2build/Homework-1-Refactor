@@ -1,0 +1,8 @@
+{
+  "name": "accessible-marketing-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Accessible responsive marketing refactor exercise",
+  "scripts": { "test": "node --test tests/*.test.mjs" },
+  "engines": { "node": ">=20" }
+}

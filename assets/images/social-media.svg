@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240" role="img" aria-labelledby="title">
+<title id="title">Social Community Connections</title>
+<rect width="360" height="240" rx="22" fill="#EAF5FA"/>
+<path d="M178 112 88 68M178 112 270 68M178 112 89 177M178 112l93 66" stroke="#7CADC2" stroke-width="8" stroke-linecap="round"/>
+<circle cx="178" cy="112" r="45" fill="#155B7D" stroke="#fff" stroke-width="6"/>
+<circle cx="178" cy="102" r="13" fill="#fff"/><path d="M155 134c5-24 41-24 46 0" stroke="#fff" stroke-width="10" stroke-linecap="round" fill="none"/>
+<g fill="#fff" stroke="#007B9B" stroke-width="6">
+<circle cx="87" cy="68" r="29"/><circle cx="271" cy="68" r="29"/>
+<circle cx="87" cy="178" r="29"/><circle cx="271" cy="178" r="29"/>
+</g>
+<g fill="#007B9B">
+<circle cx="87" cy="68" r="10"/><circle cx="271" cy="68" r="10"/>
+<circle cx="87" cy="178" r="10"/><circle cx="271" cy="178" r="10"/>
+</g>
+</svg>
