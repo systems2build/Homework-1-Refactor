@@ -16,8 +16,10 @@ html { scroll-behavior: smooth; }
 body { margin: 0; color: var(--ink); background: var(--canvas); line-height: 1.6; }
 img { display: block; max-width: 100%; height: auto; }
 a { color: inherit; }
-:focus-visible { outline: 3px solid #f9aa28; outline-offset: 4px; }
+:focus-visible { outline: 3px solid #995600; outline-offset: 4px; }
 .container { width: min(1160px, calc(100% - 2.5rem)); margin-inline: auto; }
+.site-header :focus-visible,
+.hero :focus-visible { outline-color: #ffffff; }
 .skip-link {
   position: absolute; top: -5rem; left: 1rem; z-index: 10; display: inline-block;
   background: #fff; padding: .65rem 1rem; border-radius: .25rem;
@@ -30,7 +32,7 @@ a { color: inherit; }
 .primary-nav ul { display: flex; flex-wrap: wrap; gap: .5rem 1.35rem; list-style: none; padding: 0; margin: 0; }
 .primary-nav a { display: inline-block; text-underline-offset: .25rem; font-weight: 600; }
 .primary-nav a:hover { color: #93e0d4; }
-.hero { background: linear-gradient(115deg, #0f4a71 0%, #146782 65%, #218891 100%); color: #fff; }
+.hero { background: linear-gradient(115deg, #0f4a71 0%, #146782 65%, #167a83 100%); color: #fff; }
 .hero-inner { padding-block: clamp(3rem, 8vw, 6rem); max-width: 1160px; }
 .eyebrow, .service-kicker { text-transform: uppercase; letter-spacing: .12em; font-size: .77rem; font-weight: 800; }
 .eyebrow { color: #d2f8f5; }
